@@ -1,6 +1,7 @@
 # weather_app
 
-A new Flutter project.
+This program is used to display weather data using the name of the country or city within the country depending on to use free weather api
+
 
 ## Getting Started
 
